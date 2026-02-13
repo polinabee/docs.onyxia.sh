@@ -98,7 +98,7 @@ After a few seconds, if you reload **https://datalab.my-domain.net** you should 
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt="" width="354"><figcaption></figcaption></figure>
 
-Next step is to see how to enable your user to authenticate themselvs to your datalab!
+Next step is to see how to enable your user to authenticate themselves to your datalab!
 
 {% content-ref url="user-authentication.md" %}
 [user-authentication.md](user-authentication.md)
